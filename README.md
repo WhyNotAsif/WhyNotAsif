@@ -104,16 +104,10 @@ Automated n8n workflow reducing manual validation time by ~80%.
 
 ---
 
-## Education & Certifications
+## Certifications
 
-- **B.A.** — University of Balochistan (2018)
-- **F.A.** — BBISE Quetta (2013)
-- **Matriculation** — BBISE Quetta (2011)
 - **AI Fluency for Educators** — Anthropic Academy (2026) · [Verify](https://verify.skilljar.com/c/4eut5ntyccvr)
 - **Claude Code in Action** — Anthropic Academy (2026) · [Verify](https://verify.skilljar.com/c/uo4w4qc9kkvj)
-- **Medical Technician (2yr Diploma)** — Balochistan Medical Faculty (2020)
-- **Diploma of IT** — Scholars Academy, Quetta (2022–2023)
-- **PTC Teaching** — Balochistan College, Hub Chowki (2013)
 
 ---
 
