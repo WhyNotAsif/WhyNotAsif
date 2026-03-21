@@ -4,8 +4,6 @@
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 ![GitHub](https://img.shields.io/badge/GitHub-WhyNotAsif-black?logo=github)
 
-A modern, high-performance **React.js portfolio website** showcasing my experience in **public health, data technology, automation, and full-stack development**.
-
 🌐 **Live Portfolio:**  
 https://asif-jamali-portfolio.vercel.app/
 
