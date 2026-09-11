@@ -4,6 +4,8 @@
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 ![GitHub](https://img.shields.io/badge/GitHub-WhyNotAsif-black?logo=github)
 
+A modern, high-performance **React.js portfolio website** showcasing my experience in **public health, data technology, automation, and full-stack development**.
+
 🌐 **Live Portfolio:**  
 https://asif-jamali-portfolio.vercel.app/
 
@@ -71,6 +73,40 @@ Automated n8n workflow reducing manual validation time by ~80%.
 - Smart Validation, IP Tracking, Duplicate Detect, Excel Export
 - **Tech:** PHP 7.4+, JavaScript, JSON
 
+### 🔹 SmartORT — Enterprise Field Worker Tracking
+Enterprise-grade GPS tracking & attendance system for mobile workforces. Android app with 30-second background GPS, 5-layer anti-spoofing, offline-first design, and real-time admin dashboard.
+- 30s GPS Tracking, Anti-Spoof Security, Offline-First, Live Admin Dashboard
+- **Tech:** Android 8.0+, FastAPI, MapLibre, Material Design 3
+- 🔗 [GitHub](https://github.com/WhyNotAsif/SmartOrt)
+
+### 🔹 Field Capturer
+Android-first GPS camera that stamps photos with area name, coordinates, accuracy, team info, date, time & user identity. Photos saved locally and uploaded via FastAPI backend to Telegram CDN. Works fully offline with GPS.
+- GPS Photo Stamp, Offline Location, Telegram CDN Upload, Team & User Tagging
+- **Tech:** React, TypeScript, Capacitor, Geolocation API
+- 🔗 [Live Demo](https://field-camera.vercel.app/) | [GitHub](https://github.com/WhyNotAsif/field-capturer)
+
+### 🔹 FastAPI HTTPS Setup (Oracle VPS)
+Production-ready guide for hosting FastAPI with free HTTPS on Oracle Cloud using Caddy + DuckDNS — no paid domain, no Nginx, no Certbot required.
+- Free HTTPS SSL, Auto-Renewal, Caddy Reverse Proxy, Oracle VPS Ready
+- **Tech:** FastAPI, Caddy, DuckDNS, Oracle Cloud
+- 🔗 [GitHub](https://github.com/WhyNotAsif/https-setup)
+
+### 🔹 OpenClaw — Self-Hosted AI Setup
+Self-hosted AI infrastructure platform. Deploy your own AI stack on any VPS with Docker — zero cloud dependency, full data control, and API-ready endpoints.
+- Self-Hosted AI, Docker Deploy, Zero Cloud Deps, API-Ready Endpoints
+- **Tech:** Python, Docker, FastAPI, Koyeb
+- 🔗 [GitHub](https://github.com/WhyNotAsif/OpenClaw)
+
+### 🔹 WhatsApp Business Bot
+AI-powered WhatsApp automation for small businesses — handles customer queries, manages ledger entries, sends payment reminders, and tracks inventory through conversational AI.
+- AI Customer Support, Ledger Management, Payment Reminders, Inventory Tracking
+- **Tech:** Python, WhatsApp API, FastAPI, AI/NLP
+
+### 🔹 AI Website Chatbot
+Intelligent website chatbot that introduces your business to visitors, answers questions, captures leads, and performs automated follow-up calls to finalize clients — turning visitors into customers.
+- Business Introduction, Lead Capture, Auto Follow-Up Calls, Client Finalization
+- **Tech:** React, Python, FastAPI, AI/NLP
+
 ---
 
 ## Experience
@@ -102,10 +138,16 @@ Automated n8n workflow reducing manual validation time by ~80%.
 
 ---
 
-## Certifications
+## Education & Certifications
 
+- **B.A.** — University of Balochistan (2018)
+- **F.A.** — BBISE Quetta (2013)
+- **Matriculation** — BBISE Quetta (2011)
 - **AI Fluency for Educators** — Anthropic Academy (2026) · [Verify](https://verify.skilljar.com/c/4eut5ntyccvr)
 - **Claude Code in Action** — Anthropic Academy (2026) · [Verify](https://verify.skilljar.com/c/uo4w4qc9kkvj)
+- **Medical Technician (2yr Diploma)** — Balochistan Medical Faculty (2020)
+- **Diploma of IT** — Scholars Academy, Quetta (2022–2023)
+- **PTC Teaching** — Balochistan College, Hub Chowki (2013)
 
 ---
 
@@ -133,4 +175,4 @@ Automated n8n workflow reducing manual validation time by ~80%.
 
 [![](https://visitcount.itsvg.in/api?id=WhyNotAsif&icon=0&color=6)](https://visitcount.itsvg.in)
 
-© 2026 Asif Ali — Built with React & deployed on Vercel
+© 2026 Asif Ali
