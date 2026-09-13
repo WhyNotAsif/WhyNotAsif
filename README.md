@@ -16,7 +16,7 @@ https://asif-jamali-portfolio.vercel.app/
 **Social Worker & Data Technologist** with:
 
 - **10+ years** in public health campaigns, data management & web development  
-- **500,000+ lives** impacted through polio eradication, immunization drives & MNCH programs  
+- **10,000+ lives** impacted through polio eradication, immunization drives & MNCH programs  
 - Supervised **20+ field teams** across **3+ districts**, improving reporting efficiency by **75%**  
 - Strong background in **Python, full-stack development, automation & data systems**
 
