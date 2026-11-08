@@ -34,6 +34,17 @@ https://asif-jamali-portfolio.vercel.app/
 
 ## Key Projects
 
+### ☁️ HostSnap Cloud: Media & File CDN Platform
+
+Instant public file hosting with seekable video/audio streaming and token-based file ownership, with no sign-up required.
+
+- ⚡ **Zero-registration uploads** up to 25 MB per file (images, video, audio, documents, archives, code)
+- 🎥 **HTTP Range streaming** (`206 Partial Content`, RFC 7233) so users can seek without downloading the whole file
+- 🔑 **Delete-token security:** the server stores only the SHA-256 hash of each token
+- 📡 **Open REST API** with 10 endpoints for upload, streaming, download, caption edit, and single/bulk delete
+- 🎨 **Responsive UI** with dark/light themes, grid/list views, and an admin console
+- 🔗 [![Live App](https://img.shields.io/badge/Live%20App-hostsnap.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://hostsnap.vercel.app/) | [![Repository](https://img.shields.io/badge/Repository-TeleCloud--CDN-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhyNotAsif/TeleCloud-CDN)
+
 ### 🔹 Vaccine Tracker
 Healthcare immunization tracking & vaccine distribution analytics.
 - Immunization Dashboard, Efficacy Analytics, HIPAA-compliant, Export PDF/CSV
